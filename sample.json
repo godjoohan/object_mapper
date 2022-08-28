@@ -1,0 +1,16 @@
+{
+  "name":"TK.HA",
+  "age":38,
+  "cars":[
+    {
+      "name":"K5",
+      "type":"sedan",
+      "car_number":"11ga 1111"
+    },
+    {
+      "name":"gv80",
+      "type":"suv",
+      "car_number":"11ga 2222"
+    }
+  ]
+}
